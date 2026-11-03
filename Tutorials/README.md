@@ -16,9 +16,9 @@ concepts learned from this tutorial were later applied to the
 Voice-Controlled Desktop Navigation System.
 
 Files
-- test_micl.py - Basic microphone and speech-to-text
+- test_mic.py - Basic microphone and speech-to-text
   program created while following the tutorial.
-  
+
 Libraries
 - SpeechRecognition
 - PyAudio
